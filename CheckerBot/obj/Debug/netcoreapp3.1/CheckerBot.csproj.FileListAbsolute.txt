@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\CheckerBot\CheckerBot\bin\Debug\netcoreapp3.1\CheckerBot.exe
+C:\Users\user\source\repos\CheckerBot\CheckerBot\bin\Debug\netcoreapp3.1\CheckerBot.deps.json
+C:\Users\user\source\repos\CheckerBot\CheckerBot\bin\Debug\netcoreapp3.1\CheckerBot.runtimeconfig.json
+C:\Users\user\source\repos\CheckerBot\CheckerBot\bin\Debug\netcoreapp3.1\CheckerBot.runtimeconfig.dev.json
+C:\Users\user\source\repos\CheckerBot\CheckerBot\bin\Debug\netcoreapp3.1\CheckerBot.dll
+C:\Users\user\source\repos\CheckerBot\CheckerBot\bin\Debug\netcoreapp3.1\CheckerBot.pdb
+C:\Users\user\source\repos\CheckerBot\CheckerBot\obj\Debug\netcoreapp3.1\CheckerBot.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CheckerBot\CheckerBot\obj\Debug\netcoreapp3.1\CheckerBot.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CheckerBot\CheckerBot\obj\Debug\netcoreapp3.1\CheckerBot.AssemblyInfo.cs
+C:\Users\user\source\repos\CheckerBot\CheckerBot\obj\Debug\netcoreapp3.1\CheckerBot.dll
+C:\Users\user\source\repos\CheckerBot\CheckerBot\obj\Debug\netcoreapp3.1\CheckerBot.pdb
+C:\Users\user\source\repos\CheckerBot\CheckerBot\obj\Debug\netcoreapp3.1\CheckerBot.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CheckerBot\CheckerBot\obj\Debug\netcoreapp3.1\CheckerBot.genruntimeconfig.cache
